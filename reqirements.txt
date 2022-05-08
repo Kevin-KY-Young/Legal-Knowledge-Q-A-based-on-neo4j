@@ -1,0 +1,6 @@
+py2neo
+ltp
+pyyaml
+pyjson
+wget
+torch
